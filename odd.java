@@ -12,10 +12,10 @@ class Ideone
 		range=sc.nextInt();
 		for(int i=limit+1; i<range;i++)
 		{
-		           if( i % 2 != 0)	
+		           if( i % 2 = 0)	
 		
 			{
-				System.out.print(i + " ");
+				System.out.print(i);
 			}
 		}	
 		
